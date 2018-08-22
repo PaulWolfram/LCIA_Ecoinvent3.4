@@ -1,0 +1,9 @@
+Original EI34 name	New name
+------------------	--------
+
+A_public		EI34_A
+ie_index		EI34_ALabs
+C			EI34_C
+LCIA_index		EI34_CLabs
+B_public		EI34_S
+ee_index		EI34_SLabs
